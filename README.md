@@ -24,6 +24,8 @@ Dukhanta is a virtual assistant developed for the Department of Administrative R
 
 3. **Feedback:** Users are encouraged to provide feedback on their experience with Dukhanta. This feedback helps us improve the virtual assistant and enhance user satisfaction.
 
+4. **Running DARPG.html:** Users can directly run DARPG.html to interact with the assistant as it has already been embedded in it.
+
 ## Images
 
 Insert images of Dukhanta's interface in action here.
@@ -46,3 +48,6 @@ For any inquiries or feedback regarding Dukhanta, please contact:
 
 Prithvi Ragavendiran R @prithviragavendiranr.eee2022@citchennai.net
 
+## Disclaimer
+
+Dukhanta is a virtual assistant developed for informational purposes and is not intended to replace official channels yet for filing complaints or grievances. Users are advised to refer to the official DARPG website or contact relevant authorities for official assistance.
