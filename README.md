@@ -28,7 +28,7 @@ Dukhanta is a virtual assistant developed for the Department of Administrative R
 
 ## Images
 
-Insert images of Dukhanta's interface in action here.
+![Images](Content/Display/UI.png)
 
 ## Team Members
 
