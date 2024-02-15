@@ -39,6 +39,7 @@ Dukhanta is a virtual assistant developed for the Department of Administrative R
 
 ## Team Members
 
+- Prithvi Ragavendiran R
 - Surya Prabhakaran
 - Koushik N
 - Prajen S K
