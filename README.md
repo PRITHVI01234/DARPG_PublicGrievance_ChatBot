@@ -29,6 +29,9 @@ Dukhanta is a virtual assistant developed for the Department of Administrative R
 ## Images
 
 ![Images](Working%20of%20Chatbot/0.png)
+![Images](Working%20of%20Chatbot/1.png)
+![Images](Working%20of%20Chatbot/2.png)
+![Images](Working%20of%20Chatbot/3.png)
 
 ## Team Members
 
